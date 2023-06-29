@@ -5,3 +5,22 @@
     height: 200px;
     padding: 20px;;
 }
+
+.imagen1{
+    width: 500px;
+    height: 300px;
+
+}
+
+.contenedor{
+    justify-content: center;
+}
+.centro{
+    justify-content: center;
+}
+
+.imagen2{
+    width: 800px;
+    height: 300px;
+
+}
