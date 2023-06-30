@@ -1,16 +1,9 @@
+Fauna y flora
 
-    <title>La flora y la fauna</title>
-    <link rel="icon" type="image/jpg" href="icono.ico"
-    <style>
-        body {
-            background-color: rgb(147, 134, 192);
-        }
-    </style>
+En esta oportunidad se presenta el siguiente repositorio el cual hace referencia al parcial 4 del Ciclo I de la materia de Unix.
 
+El tema abordarse es la fauna y la flora, donde se presentan definiciones, imagenes, y al final un video haciendo alusión al tema. Además se agregan tambien a este repositorio los scripts realizados durante el Ciclo I.
 
-    <center>
-            <h1
-        style="color: brown; font-family: Times New Roman;"
-        >La fauna y la flora</h1>
-        </center>
-        <h2 > Fauna</h2>
+El obejtivo de este repositorio es conocer adquirir conocimiento de la flora y la fauna.
+
+¡Gracias por visitar mi repositorio!
